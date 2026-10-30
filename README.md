@@ -27,16 +27,6 @@ The article covers the following important topics:
 
 10. **Frequently Asked Questions** – Answers to common parent questions about preschool admission age, readiness, separation anxiety, and toilet training.
 
-preschool-age-guide/
-│
-├── README.md
-├── right-age-to-start-preschool.md
-├── preschool-age-stages-and-readiness.md
-├── preschool-age-cutoff-and-first-day-preparation.md
-├── is-earlier-always-better-preschool.md
-├── thames-valley-preschool-and-franchise-opportunities.md
-└── preschool-faqs.md
-
 ## Who Is This Guide For?
 
 - Parents planning their child's first preschool admission.
